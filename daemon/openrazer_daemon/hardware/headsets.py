@@ -152,7 +152,7 @@ class RazerKraken71Chroma(__RazerDevice):
         self.disable_notify = False
 
 
-class RazerKrakenV2(__RazerDevice):
+class RazerKraken71V2(__RazerDevice):
     """
     Class for the Razer Kraken 7.1 V2
     """
